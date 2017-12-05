@@ -1,0 +1,32 @@
+{
+    "name": "slliu/zh-conversion",
+    "description": "简体转换为繁体",
+    "license": "MIT",
+    "keywords": ["简体", "繁体", "转换"],
+    "authors": [
+        {
+            "name": "LiuShulong",
+            "email": "bigfish_liu@126.com"
+        }
+    ],
+    "require": {
+        "php" : ">=7.0.10"
+    },
+    "require-dev": {
+        "phpunit/phpunit" : "^6.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "slliu\\zh\\": "src/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "slliu\\zh\\": "tests"
+        }
+    },
+    "scripts": {
+        "test": "phpunit --coverage-text"
+    }
+
+}

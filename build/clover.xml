@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1512493799">
+  <project timestamp="1512493799">
+    <package name="slliu\zh">
+      <file name="/Users/liushulong/Documents/php/zh-conversion/src/CharMap.php">
+        <class name="slliu\zh\CharMap" namespace="slliu\zh">
+          <metrics complexity="0" methods="0" coveredmethods="0" conditionals="0" coveredconditionals="0" statements="0" coveredstatements="0" elements="0" coveredelements="0"/>
+        </class>
+        <metrics loc="20224" ncloc="20213" classes="0" methods="0" coveredmethods="0" conditionals="0" coveredconditionals="0" statements="0" coveredstatements="0" elements="0" coveredelements="0"/>
+      </file>
+      <file name="/Users/liushulong/Documents/php/zh-conversion/src/Convert.php">
+        <class name="slliu\zh\Convert" namespace="slliu\zh">
+          <metrics complexity="15" methods="5" coveredmethods="5" conditionals="0" coveredconditionals="0" statements="15" coveredstatements="15" elements="20" coveredelements="20"/>
+        </class>
+        <line num="13" type="method" name="zhconversion_hant" visibility="public" complexity="3" crap="3" count="3"/>
+        <line num="15" type="stmt" count="3"/>
+        <line num="16" type="stmt" count="2"/>
+        <line num="19" type="stmt" count="1"/>
+        <line num="26" type="method" name="zhconversion_hans" visibility="public" complexity="3" crap="3" count="3"/>
+        <line num="27" type="stmt" count="3"/>
+        <line num="28" type="stmt" count="2"/>
+        <line num="30" type="stmt" count="1"/>
+        <line num="37" type="method" name="zhconversion_cn" visibility="public" complexity="3" crap="3" count="3"/>
+        <line num="38" type="stmt" count="3"/>
+        <line num="39" type="stmt" count="2"/>
+        <line num="41" type="stmt" count="1"/>
+        <line num="49" type="method" name="zhconversion_tw" visibility="public" complexity="3" crap="3" count="3"/>
+        <line num="50" type="stmt" count="3"/>
+        <line num="51" type="stmt" count="2"/>
+        <line num="53" type="stmt" count="1"/>
+        <line num="60" type="method" name="zhconversion_hk" visibility="public" complexity="3" crap="3" count="3"/>
+        <line num="61" type="stmt" count="3"/>
+        <line num="62" type="stmt" count="2"/>
+        <line num="64" type="stmt" count="1"/>
+        <metrics loc="66" ncloc="46" classes="1" methods="5" coveredmethods="5" conditionals="0" coveredconditionals="0" statements="15" coveredstatements="15" elements="20" coveredelements="20"/>
+      </file>
+    </package>
+    <metrics files="2" loc="20290" ncloc="20259" classes="1" methods="5" coveredmethods="5" conditionals="0" coveredconditionals="0" statements="15" coveredstatements="15" elements="20" coveredelements="20"/>
+  </project>
+</coverage>
