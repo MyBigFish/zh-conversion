@@ -1,6 +1,7 @@
 {
     "name": "slliu/zh-conversion",
     "type": "library",
+    "version":"1.0.0",
     "description": "简体和繁体转换工具",
     "license": "MIT",
     "keywords": ["简体", "繁体", "转换"],
