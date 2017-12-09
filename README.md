@@ -1,5 +1,6 @@
 zh-conversion
 =====
+[![Build Status](https://travis-ci.org/LiuShulong/zh-conversion.svg?branch=master?style=flat-square)](https://travis-ci.org/LiuShulong/zh-conversion)
 
 [![codecov](https://codecov.io/gh/LiuShulong/zh-conversion/branch/master/graph/badge.svg)](https://codecov.io/gh/LiuShulong/zh-conversion)
 
