@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <testsuites>
-  <testsuite name="Test Suite" tests="7" assertions="15" errors="0" failures="0" skipped="0" time="0.030917">
-    <testsuite name="ConvertTest" file="/Users/liushulong/Documents/php/zh-conversion/tests/ConvertTest.php" tests="7" assertions="15" errors="0" failures="0" skipped="0" time="0.030917">
-      <testcase name="testNull" class="ConvertTest" classname="ConvertTest" file="/Users/liushulong/Documents/php/zh-conversion/tests/ConvertTest.php" line="16" assertions="5" time="0.007112"/>
-      <testcase name="testLength" class="ConvertTest" classname="ConvertTest" file="/Users/liushulong/Documents/php/zh-conversion/tests/ConvertTest.php" line="25" assertions="5" time="0.002676"/>
-      <testcase name="testHant" class="ConvertTest" classname="ConvertTest" file="/Users/liushulong/Documents/php/zh-conversion/tests/ConvertTest.php" line="35" assertions="1" time="0.013131"/>
-      <testcase name="testHans" class="ConvertTest" classname="ConvertTest" file="/Users/liushulong/Documents/php/zh-conversion/tests/ConvertTest.php" line="41" assertions="1" time="0.001618"/>
-      <testcase name="testTW" class="ConvertTest" classname="ConvertTest" file="/Users/liushulong/Documents/php/zh-conversion/tests/ConvertTest.php" line="47" assertions="1" time="0.002365"/>
-      <testcase name="testHK" class="ConvertTest" classname="ConvertTest" file="/Users/liushulong/Documents/php/zh-conversion/tests/ConvertTest.php" line="53" assertions="1" time="0.002393"/>
-      <testcase name="testCN" class="ConvertTest" classname="ConvertTest" file="/Users/liushulong/Documents/php/zh-conversion/tests/ConvertTest.php" line="59" assertions="1" time="0.001622"/>
+  <testsuite name="Test Suite" tests="7" assertions="15" errors="0" failures="0" skipped="0" time="0.034866">
+    <testsuite name="ConvertTest" file="/Users/liushulong/Documents/SLRepo/zh-conversion/tests/ConvertTest.php" tests="7" assertions="15" errors="0" failures="0" skipped="0" time="0.034866">
+      <testcase name="testNull" class="ConvertTest" classname="ConvertTest" file="/Users/liushulong/Documents/SLRepo/zh-conversion/tests/ConvertTest.php" line="16" assertions="5" time="0.007775"/>
+      <testcase name="testLength" class="ConvertTest" classname="ConvertTest" file="/Users/liushulong/Documents/SLRepo/zh-conversion/tests/ConvertTest.php" line="25" assertions="5" time="0.002717"/>
+      <testcase name="testHant" class="ConvertTest" classname="ConvertTest" file="/Users/liushulong/Documents/SLRepo/zh-conversion/tests/ConvertTest.php" line="35" assertions="1" time="0.017700"/>
+      <testcase name="testHans" class="ConvertTest" classname="ConvertTest" file="/Users/liushulong/Documents/SLRepo/zh-conversion/tests/ConvertTest.php" line="41" assertions="1" time="0.001759"/>
+      <testcase name="testTW" class="ConvertTest" classname="ConvertTest" file="/Users/liushulong/Documents/SLRepo/zh-conversion/tests/ConvertTest.php" line="47" assertions="1" time="0.001675"/>
+      <testcase name="testHK" class="ConvertTest" classname="ConvertTest" file="/Users/liushulong/Documents/SLRepo/zh-conversion/tests/ConvertTest.php" line="53" assertions="1" time="0.001679"/>
+      <testcase name="testCN" class="ConvertTest" classname="ConvertTest" file="/Users/liushulong/Documents/SLRepo/zh-conversion/tests/ConvertTest.php" line="59" assertions="1" time="0.001561"/>
     </testsuite>
   </testsuite>
 </testsuites>
